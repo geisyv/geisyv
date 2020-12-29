@@ -18,6 +18,6 @@ Skills
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=geisyv)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=geisyv&theme=dark)
 
 
