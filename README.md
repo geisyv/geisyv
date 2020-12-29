@@ -8,7 +8,7 @@ My name is Geisielly Vasques and i am a full stack developer student.
 - ⚡ Curiosity about me: I'm a geographer.  
 
 Skills
-[https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white][https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white] 
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=geisyv)
 
