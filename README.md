@@ -4,7 +4,7 @@
 
 My name is Geisielly Vasques and i am a full stack developer student.
 
-- 🌱 I am currently learning HTML, JavaScript, CSS, PHP, React and Phyton
+- 🌱 I am currently learning HTML, JavaScript, CSS, PHP, React, JAVA and Phyton
 - ⚡ Curiosity about me: I'm a geographer.  
 
 Skills
