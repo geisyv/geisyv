@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/geisielly-vasques/)
 
-My name is Geisielly Vasques and i am a full stack developer student.
+My name is Geisielly Vasques and I am a full stack developer student.
 
 - 🌱 I am currently learning HTML, JavaScript, CSS, PHP, React, JAVA and Phyton
 - ⚡ Curiosity about me: I'm a geographer.  
