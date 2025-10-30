@@ -1,6 +1,7 @@
 ### Hello world 👋
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/geisielly-vasques/)
+[<img src="https://img.shields.io/badge/Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />](https://geisy-portifolio.netlify.app/)
 
 My name is Geisielly Vasques and I am a full stack developer student.
 
