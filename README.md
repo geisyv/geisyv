@@ -5,6 +5,7 @@
 </a>
 <a href="https://geisy-portifolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
 
 My name is Geisielly Vasques and I am a full stack developer student.
 
