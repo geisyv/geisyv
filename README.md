@@ -1,18 +1,34 @@
-### Hello world 👋
+### Hello World 👋  
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geisielly-vasques/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://geisy-portifolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geisielly-vasques/)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://geisy-portifolio.netlify.app/)  
 
-My name is Geisielly Vasques and I am a full stack developer student.
+My name is **Geisielly Vasques** and I am a Full Stack Developer student passionate about **Data Science** and **Python**.  
 
-- 🌱 I am currently learning HTML, JavaScript, CSS, React, Phyton and COBOL
-- ⚡ Curiosity about me: I'm a geographer.  
+- 🌱 Currently learning **HTML, JavaScript, CSS, React, Python, COBOL** and exploring **Data Science tools**  
+- 📊 Interested in **Machine Learning, Data Visualization, and Big Data**  
+- ⚡ Fun fact: I'm also a geographer 🌍  
 
-Skills
+---
 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/COBOL-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjMDAwIi8+PHRleHQgeD0iMTIiIHk9IjE2IiBmb250LXNpemU9IjEwIiBmaWxsPSIjZmZmIiBmb250LWZhbWlseT0iQXJpYWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkNPQk9MPC90ZXh0Pjwvc3ZnPg==" alt="COBOL Badge" />
+### 🚀 Skills & Technologies  
 
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />  
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />  
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
+<img src="https://img.shields.io/badge/COBOL-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjMDAwIi8+PHRleHQgeD0iMTIiIHk9IjE2IiBmb250LXNpemU9IjEwIiBmaWxsPSIjZmZmIiBmb250LWZhbWlseT0iQXJpYWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiPkNPQk9MPC90ZXh0Pjwvc3ZnPg==" alt="COBOL Badge" />  
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />  
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />  
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />  
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=geisyv&show_icons=true&theme=dark)
+---
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=geisyv&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geisyv&layout=compact&theme=dark)  
+
 
 
