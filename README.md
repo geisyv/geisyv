@@ -26,8 +26,12 @@ My name is **Geisielly Vasques** and I am a Full Stack Developer student passion
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geisyv&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geisyv&layout=compact&theme=radical)  
+
+### 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats-3vklccln5-geisielly-s-projects.vercel.app/api?username=geisyv&show_icons=true&theme=tokyonight&count_private=true&hide=issues)  
+![Top Langs](https://github-readme-stats-3vklccln5-geisielly-s-projects.vercel.app/api/top-langs/?username=geisyv&layout=compact&theme=tokyonight)  
+
 
 
 
